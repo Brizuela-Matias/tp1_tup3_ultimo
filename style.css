@@ -5,3 +5,7 @@ body{
 .seccion{
     background-color: rgba(208, 184, 88, 0.825);
 }
+
+h1{
+    align-items: center;
+}
